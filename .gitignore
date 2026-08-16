@@ -1,0 +1,19 @@
+# Icarus Verilog compiled output
+*.out
+
+# Simulation waveform files
+*.vcd
+
+# GTKWave session files
+*.gtkw
+
+# Temporary files
+*.tmp
+*.bak
+
+# Editor / OS files
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

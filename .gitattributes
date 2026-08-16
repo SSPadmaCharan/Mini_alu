@@ -1,0 +1,17 @@
+# Verilog source files
+*.v text eol=lf
+
+# Verilog/SystemVerilog source files
+*.sv text eol=lf
+
+# Markdown documentation
+*.md text eol=lf
+
+# Git configuration files
+*.gitignore text eol=lf
+.gitattributes text eol=lf
+
+# Do not treat generated simulation files as text
+*.out binary
+*.vcd binary
+*.gtkw binary
